@@ -1,0 +1,40 @@
+img {
+  max-height: 200px;
+  max-width: 250px;
+}
+
+li {
+  font-size: 25px;
+}
+
+h1 {
+  padding: 10px;
+  background: blue;
+  display: inline;
+}
+button {
+  font-size: 35px;
+  background-color: red;
+  border: 3px solid blue;
+  border-radius: 45%;
+  text-align: center;
+  font-weight: bold;
+  display: block;
+}
+
+.one {
+  background: red;
+}
+
+.two {
+  background: white;
+}
+
+.three {
+  background: blue;
+}
+
+.little {
+  font-size: 10px;
+  color: white;
+}
